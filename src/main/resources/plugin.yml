@@ -1,0 +1,4 @@
+name: KotlinLib
+version: '${project.version}'
+main: online.flowerinsnow.minecraft.spigot.kotlinlib.KotlinLib
+api-version: 1.18
